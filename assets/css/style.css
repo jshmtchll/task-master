@@ -27,10 +27,16 @@ header {
   border-bottom: 5px solid var(--primary);
 }
 
+header h1 {
+  color: var(--primary);
+  font-size: 35px;
+}
+
 header img {
-  width: 100px;
+  width: 140px;
   height: auto;
   float: right;
+  margin-right: 80px;
 }
 
 header p {
